@@ -3,10 +3,16 @@ Hello
 I hope you are doing well.
 
 1. 	
-	The [Engineering/Development/SaaS] team would like to [collect the IdR logs after reproducing the issue / perform further tests / acquire more data] to [investigate the issue further / perform conclusive analysis].
-
-2.
+	A) The [Engineering/Development/SaaS] team would like to [collect the _ logs after reproducing the issue / perform further tests / acquire more data] to [investigate the issue further / perform conclusive analysis].
 	
+	B) Our [Engineering/Development/SaaS] are looking forward to [collecting the _ / performing further tests on _ / acquiring more details about _] to [further investigate the issue / perform conclusive analysis].
+	
+	
+2.	
+	A) Please advise back your next available time window for engaging in a meeting to [attempt reproducing the issue / collect the necessary information].
+	
+	B) As such, would you be able to [send us the required information / engage in a meeting to proceed with _]?
+
 
 Awaiting your response.
 
