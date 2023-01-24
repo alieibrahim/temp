@@ -3,7 +3,7 @@ Hello
 I hope you are doing well.
 
 1. 	
-	A) The [Engineering/Development/SaaS] team would like to [collect the _ logs after reproducing the issue / perform further tests / acquire more data] to [investigate the issue further / perform conclusive analysis].
+	A) The [Engineering/Development/SaaS] team would like to [collect the _ logs upon reproducing the issue / perform further tests / acquire more data] to [investigate the issue further / perform conclusive analysis].
 	
 	B) Our [Engineering/Development/SaaS] are looking forward to [collecting the _ / performing further tests on _ / acquiring more details about _] to [further investigate the issue / perform conclusive analysis].
 	
