@@ -1,0 +1,38 @@
+Hello 
+
+I hope you are doing well.
+
+1. 	
+	Please note that <Vendor Product> is currently not within the list of supported vendor integrations. <Vendor Product> had not been formally implemented and tested by our engineering team in charge of product development and therefore, we can not warrant that this integration method will work. As such, we do not support this integration type.
+	
+	More information on the currently supported RSA Product models can be found through the below link:
+	
+	(Cloud) -> Alternatively, You can check the supported integrations from your Cloud CAS -> Applications -> Application Catalogue.
+
+
+2.
+	As of now, there is no direct, supported method of integrating RSA SecurID products with <Vendor Product>. This does not guarantee that the integration will fail. However, it hasn't been tested and verified by our product engineers, and therefore, we can not provide further support should the implementation now work.
+	
+	You can refer to the below link for more information about all of RSA SecurID's supported product versions and their end-of-life dates.
+	
+	Product Version Life Cycle for RSA SecurID
+	- https://community.rsa.com/t5/product-life-cycle/product-version-life-cycle-for-securid/ta-p/572909
+	
+	(Cloud) -> Alternatively, You can check the supported integrations from your Cloud CAS -> Applications -> Application Catalogue.
+	
+	
+3.
+	Searching for RSA's Supported vendor integrations through the below link, I have not been able to find an integration guide for <Vendor Product>.
+	
+	Kindly be advised that the "<Vendor Product>" third-party product mentioned in the case description is not among the listed products supported by RSA. Henceforth, please note that we can not offer further support for this integration.
+	
+	(Cloud) -> Alternatively, You can check the supported integrations from your Cloud CAS -> Applications -> Application Catalogue.
+	
+
+Please let me know if this answers your questions. If you have any further inquiries, feel free to reply to this email.
+
+Have a nice day!
+
+Best Regards,
+Nadeem Naoum | Technical Support Engineer | SecurID - RSA Security.
+Customer Help Desk: EMEA: Tel: +448000668073 | US: 1-800-995-5095 | APJ: +61238138723
