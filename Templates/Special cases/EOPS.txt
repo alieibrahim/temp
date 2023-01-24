@@ -3,7 +3,7 @@ Hello
 I hope you are doing well.
 
 1. 	
-	A) Please note that <Product Version> [[is / will be ] out of support] / has reached its end of support life. As such, it is advisable to upgrade to one of the latest supported versions of _.
+	A) Please note that <Product Version> [[is / will be ] out of support] / has reached its end of support life. As such, it is advisable to upgrade to one of the latest supported versions of <Product>.
 	
 	B) According to RSA's End-of-Product-Support (EOPS) current dates, <Product Version> [is currently unsupported / will soon not be supported]. Therefore, it is recommended to consider upgrading <Product> to one of the latest released versions that are currently within the support scope.
 	
@@ -15,13 +15,6 @@ I hope you are doing well.
 	
 	Product Version Life Cycle for RSA SecurID
 	- https://community.rsa.com/t5/product-life-cycle/product-version-life-cycle-for-securid/ta-p/572909
-
-
-3. 
-Should you not find the product feature /integration guide you are looking for, we recommend you add your requirements to the RSA Ideas page which is regularly monitored by our product Managers and developers to for tracking the most feasible implementations to consider.
-
-	• RSA Ideas:  https://community.securid.com/t5/securid-ideas/idb-p/securid-access-ideas
-	• RSA Integration ideas:  https://community.securid.com/t5/securid-ideas/idb-p/securid-access-ideas/label-name/integrations
 
 
 Please let me know if this answers your questions. If you have any further inquiries, feel free to reply to this email.
