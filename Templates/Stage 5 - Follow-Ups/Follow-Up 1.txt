@@ -3,12 +3,14 @@ Follow-Up 1:
 Hello (Recipient)
 
 1.
-	I just wanted to check in with you regarding the issue/query you had with/about [Technical Issue/Query]. 
-	Do you require any further assistance in this case?
+	a: I just wanted to check in with you regarding the issue/query you had with/about [Technical Issue/Query]. 
+	
+	b: I wanted to touch base with you on the current status of the case.
 
 2.
-	I wanted to touch base with you on the current status of the case.
-	Have you had a chance to look over the provided notes? Did you find the information helpful?
+	a: Do you require any further assistance in this case?
+        
+	b: Have you had a chance to look over the provided notes? Did you find the information helpful?
 
 Awaiting your feedback.
 Have a nice day!
