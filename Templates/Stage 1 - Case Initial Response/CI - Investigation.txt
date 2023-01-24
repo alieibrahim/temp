@@ -1,0 +1,31 @@
+Hello 
+
+I hope you are doing great.
+
+1. 
+	Thank you for reaching out to RSA SecurID's Technical Support team. 
+	My name is Nadeem Naoum, I have taken ownership of your case and will support you through it.
+
+	Please note that I have received your request, and am now investigating your inquiries. I will respond promptly as soon as I have gathered all the necessary information to answer your questions.
+
+	We appreciate the time you have invested in opening a case with our team, and we will offer you the support you need. 
+
+	
+2.
+	Thank you for contacting RSA Technical Support Team. 
+	This is Nadeem Naoum, and I will be assisting you throughout this support case.
+	
+	I am currently gathering more resourceful data [for troubleshooting your issue / to answer your inquiries]. Please allow me some time to investigate and I will get back to you with more information.
+
+	Your support experience is valuable to us. As such, we're dedicated to getting to the bottom of this and working through your issue.
+
+3.    
+        Kindly be advised that I will be investigating your issue internally, and will be advising back shortly as soon as I find a suitable RCA and hopefully a resolution as well.
+
+        Rest assured that we will get to the bottom of your issue as soon as possible, as stay tuned for my replies to this email thread.
+
+Have a nice day!
+
+Best Regards,
+Nadeem Naoum | Technical Support Engineer | SecurID - RSA Security.
+Customer Help Desk: EMEA: Tel: +448000668073 | US: 1-800-995-5095 | APJ: +61238138723

@@ -1,0 +1,27 @@
+Hello 
+
+I hope you are doing well
+
+1. 	
+	[A] Please note that I have joined the scheduled meeting for _ minutes, but no one joined from your side. As such, let us reschedule this meeting for a more suitable time.
+	I would suggest conducting the meeting on _, at _. Let me know if this works for you.
+		
+	[B] Unfortunately, I would not be available at the [suggested / requested] time. However, I would like to suggest rescheduling this meeting to another period.
+	I would be available through _ to _. Kindly let me know if we can conduct a meeting [at / during this time].
+		
+		
+2.	
+	[A] I joined the scheduled meeting for _ minutes before dropping off. I assume you have not been able to join the meeting and as such, let us reschedule this meeting to a more preferable timing.
+	Would you be available on _, at _? If yes, I will be forwarding an invite for you to attend the scheduled session. Otherwise, let me know your desired time slots for scheduling the meeting accordingly.
+	
+	[B] The suggested time would not work for me to conduct a meeting. However, would you be able to connect on _, at _?
+	Please let me know if this works for you, and I'll proceed to schedule and forward you the meeting invite.
+	
+	
+Awaiting your response.
+
+Have a nice day!
+
+Best Regards,
+Nadeem Naoum | Technical Support Engineer | SecurID - RSA Security.
+Customer Help Desk: EMEA: Tel: +448000668073 | US: 1-800-995-5095 | APJ: +61238138723

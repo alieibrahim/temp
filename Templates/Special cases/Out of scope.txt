@@ -1,0 +1,14 @@
+Greetings ,
+
+Kindly be advised that our support model does not allow us to enter and be on the call during a product change window which can last few hours to days.
+ 
+However, our RSA professional services team can be on call with you during changes if they are engaged in an upgrade project.
+ 
+Our support model works on break/fix, meaning that if you run into any issues we would assist to fix it after enough data about the nature of the issue is provided on the ticket, this applies to any encountered issues while you execute your change activity.
+ 
+We are aware that you are doing a prod change and the case will be flagged with highest priority to the team internally. So if/when you encounter any issue during your change process, please call RSA support desk and ask for available engineer by quoting case.
+
+Let me know if this answers your questions, and if you have any further enquiries please feel free to reply to this email.
+Best Regards,
+Nadeem Naoum | Technical Support Engineer | SecurID - RSA Security.
+Customer Help Desk: EMEA: Tel: +448000668073 | US: 1-800-995-5095 | APJ: +61238138723

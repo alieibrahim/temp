@@ -1,0 +1,19 @@
+Hello , 
+
+[a] I’d like to thank you for your time on Friday's Teams meeting, it was a pleasure speaking with you. 
+    Please be advised that after our call, I immediately began investigating internally for resolutions for your enquiry.
+[b] After our last email discussion I began investigating your issue internally, in efforts to find a proper resolution for your enquiry.
+
+Allow me to first begin by clarifying that RSA has been divided into multiple Business units for the different products delivered by RSA. And as such, new support portals and/or community websites launched for supporting RSA®, NetWitness®, Archer® and Outseer® respectively.
+
+After conducting my investigation internally, I was able to confirm that your enquiry requires assistance from the [Outseer|Archer|Netwitness] support team, not the RSA team in which I operate.
+
+As such, please be advised that no further relief can be provided via this ticket, a new one will be required to be opened via [Outseer|Archer|Netwitness]'s wesbite: https://outseer.force.com/outseervision/s/  
+   
+And henceforth, please be advised that for any technical/administrative/sales requests, please make sure to contact your concerned product support Team to assist you further by checking out this [Outseer|Archer|Netwitness] Customer Support Guide https://outseer.force.com/outseervision/s/how-to-contact-support
+
+Let me know if this answers your questions, and if you have any further enquiries please feel free to reply to this email.
+
+Best Regards,
+Nadeem Naoum | Technical Support Engineer | SecurID - RSA Security.
+Customer Help Desk: EMEA: Tel: +448000668073 | US: 1-800-995-5095 | APJ: +61238138723

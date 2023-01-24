@@ -1,0 +1,23 @@
+Hello 
+
+1. 
+	I'm glad that I have been able to [assist you with your issue / have answered your inquiries]. I'll be closing this ticket now as discussed. Needless to say, If you have any additional issues problems, or queries, please do not hesitate to contact us again.
+
+	Once this case has been closed, you might receive a survey about RSA services. Your feedback on your experience with RSA is of utmost importance to us for continuously improving and delivering optimum support. We would appreciate it if you can take a moment to fill in the survey.
+	
+	Please refer to the below notes as a summary of the case resolution.
+
+
+2.
+	It has been a pleasure to work with you and assist you in solving this issue. I will proceed to close this case. Please feel free to contact us again whenever you [have any product-related questions / encounter any difficulties within your RSA environment], and our support team will gladly assist you with your new request.
+	
+	Since Customer Experience is one of our main metrics of success, we hope to hear back from you on your support experience in hopes of improving our means of connecting with you. As such, you might receive a survey about RSA Support Services after closing this case. Please spare a moment to fill it in and feel free to highlight your thoughts.
+	
+	Kindly refer to the below summary of the case which includes the measures taken to resolve the issue.
+	
+	
+Thanks, and have a wonderful day!
+
+Best Regards,
+Nadeem Naoum | Technical Support Engineer | SecurID - RSA Security.
+Customer Help Desk: EMEA: Tel: +448000668073 | US: 1-800-995-5095 | APJ: +61238138723

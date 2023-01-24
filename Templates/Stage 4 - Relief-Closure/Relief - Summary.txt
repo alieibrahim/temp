@@ -1,0 +1,19 @@
+Hello 
+
+1. 	
+	Please refer to the below summary of the case, which includes the troubleshooting steps [attempted to tackle the issue / explored to approach the issue].
+	
+	
+2.	
+	Kindly refer to the notes below, pertaining to a summary of the case (including the investigative measures [considered to address the issue in a question / undertaken to resolve this issue]).
+		
+	
+Please let me know if you have [other questions / further concerns]. If [you have no other inquiries / no further assistance is needed], should we proceed to close the case?
+
+Awaiting your response.
+
+Have a nice day!
+
+Best Regards,
+Nadeem Naoum | Technical Support Engineer | SecurID - RSA Security.
+Customer Help Desk: EMEA: Tel: +448000668073 | US: 1-800-995-5095 | APJ: +61238138723

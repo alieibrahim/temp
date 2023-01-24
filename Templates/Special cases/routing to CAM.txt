@@ -1,0 +1,16 @@
+Hello , 
+
+Kindly be advised that your issue requires the assistance of the [CAM|CRD] team. As such, I will proceed with opening a ticket with them as they are the team responsible for 
+[a:CAM] handing out a new download link, or sending out a new batch of token CD along with a new download link if necessary.
+[b:CAM] helping you manage and make changes to your assets such as licenses and installation images from the my.rsa.com website
+[c:CRD} helping you with making administrative changes to your account for our community website
+
+As such, please advise back the values of the email address used to sign into the [central|community|my.rsa.com] website. 
+
+[a:CAM] Also please provide the "serial number" and the "confirmation number" written on your hardware token CD
+
+As soon as we open the ticket with the [CAM|CRD] team rest assured that the issue will be handled as swiftly as possible. 
+
+Best regards,
+Nadeem Naoum | Technical Support Engineer | SecurID - RSA Security.
+Customer Help Desk: EMEA: Tel: +448000668073 | US: 1-800-995-5095 | APJ: +61238138723

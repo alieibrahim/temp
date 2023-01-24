@@ -1,0 +1,35 @@
+Follow-Up 3:
+
+Hello (Recipient)
+
+1.
+	I wanted to see if you would require any further assistance for this case as we have been hearing from you.
+	Since we can't keep an open case idle without any technical updates, we will assume that no further assistance is required and close the case if we do not hear from you by the end of today.
+	
+	Note that all the case information will be logged in it and a new case can be created at any time, referencing this case (ID: 02XXXXXX) in the subject line, should you encounter any issues or have any further questions regarding this topic.
+	
+	
+2. 
+	I am reaching out to check if you would need further help before proceeding to close this case.
+	I trust you have had a chance to review my previous email. Please note that we can't leave a support case open without further updates. As such, we will proceed to close the case by the end of the day if we do not hear back from you.
+	
+	Closed support cases retain their investigative information. If you would like to continue investigating this case further later on, you can raise a new support case and reference this case (ID: 02XXXXXX) in the subject line.
+	
+	
+NB: Support Cases can be created by either using the RSA Support Web Portal or by reaching out to RSA Customer Support Help Desk and asking them to create a case for you.
+
+RSA Technical Support
+- https://www.rsa.com/support/
+
+Using the Case Portal to create cases in the RSA Community
+- https://community.rsa.com/t5/community-support-knowledge-base/using-the-case-portal-to-create-cases-in-the-rsa-community/ta-p/5497
+
+How to contact RSA Support 
+- https://community.rsa.com/t5/support-information/how-to-contact-rsa-support/ta-p/563897
+
+
+Have a nice day!
+
+Best Regards,
+Nadeem Naoum | Technical Support Engineer | RSA Security
+Customer Help Desk: EMEA: Tel: +448000668073 | US: 1-800-995-5095 | APJ: +61238138723

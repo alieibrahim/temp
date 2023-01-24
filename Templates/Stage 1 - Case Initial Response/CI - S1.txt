@@ -1,0 +1,39 @@
+Hello 
+
+I hope you are doing great.
+
+1. 
+	Thank you for reaching out to RSA SecurID's Technical Support team. 
+	My name is Nadeem Naoum, I have taken ownership of your case and will support you through it.
+
+	According to the case notes, you seem to be facing issues with _.
+	
+	We understand your urgency in raising a Severity 1 support case. As such, let us investigate this further in a remote meeting to work on fixing the issue.
+
+	Please use the following [MS Teams / Zoom / WebEx] invite to join a remote troubleshooting session now:
+	
+	
+
+	We appreciate the time you have invested in opening a case with our team, and we will offer you the support you need. 
+
+	
+2.
+	Thank you for contacting RSA Technical Support Team. 
+	This is Nadeem Naoum, and I will be assisting you throughout this support case.
+	
+	From the provided case description, I understand that _.
+	
+	Prioritizing S1 cases is important to us. Therefore, let us proceed with investigating this further through a remote meeting.
+	
+	Please use the following [MS Teams / Zoom / WebEx] invite to join a troubleshooting meeting now:
+	
+	
+	
+	Your support experience is valuable to us. As such, we're dedicated to getting to the bottom of this and working through your issue.
+
+
+Have a nice day!
+
+Best Regards,
+Nadeem Naoum | Technical Support Engineer | SecurID - RSA Security.
+Customer Help Desk: EMEA: Tel: +448000668073 | US: 1-800-995-5095 | APJ: +61238138723
