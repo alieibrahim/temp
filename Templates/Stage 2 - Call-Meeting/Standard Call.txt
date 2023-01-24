@@ -3,15 +3,14 @@ Hello
 I hope you are doing well
 
 1. 	
-	I would like to [[acquire further information from / perform some further tests] in your environment / discuss this further with you in a remote session]. As such, would we be able to schedule a meeting to [gather the needed data / perform the mentioned tests / connect and talk through these subjects? 
+	a: I would like to [[acquire further information from / perform some further tests] in your environment / discuss this further with you in a remote session]. As such, would we be able to schedule a meeting to [gather the needed data / perform the mentioned tests / connect and talk through these subjects? 
 	
-	Kindly advise your availability for scheduling the meeting accordingly.
-	
+	b: To move forward with the investigation, we would need to [collect additional data / conduct some additional tests / discuss this more thoroughly through a meeting]. 
 		
 2.	
-	To move forward with the investigation, we would need to [collect additional data / conduct some additional tests / discuss this more thoroughly through a meeting]. 
+	a: Kindly advise your availability for scheduling the meeting accordingly.
 	
-	Therefore, please let me know your preferable time slots for scheduling a meeting accordingly.
+	b: Therefore, please let me know your preferable time slots for scheduling a meeting accordingly.
 	
 
 Awaiting your response.
