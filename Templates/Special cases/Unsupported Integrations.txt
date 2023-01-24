@@ -23,10 +23,11 @@ I hope you are doing well.
 	- https://community.rsa.com/t5/securid-integrations/tkb-p/securid-access-integrations
 	
 
-3. Should you not find the integration guide you are looking for, we recommend you add your requirements to the RSA Ideas page which is regularly monitored by our product Managers and developers to for tracking the most feasible implementations to consider.
+3. Should you not find the [Product Feature / integration Guide] you are looking for, we recommend you add your requirements to the RSA Ideas page which is regularly monitored by our product Managers and developers to for tracking the most feasible implementations to consider.
 
+	• RSA Ideas:  https://community.securid.com/t5/securid-ideas/idb-p/securid-access-ideas
 	• RSA Integration ideas:  https://community.securid.com/t5/securid-ideas/idb-p/securid-access-ideas/label-name/integrations	
-
+	
 
 Please let me know if this answers your questions. If you have any further inquiries, feel free to reply to this email.
 
