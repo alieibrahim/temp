@@ -5,12 +5,13 @@ Hello (Recipient)
 I hope you are doing well.
 
 1.
-	This is a gentle reminder of the previous e-mail.
-	Please let us know if you are still in need of further assistance. Otherwise, kindly let us know if the provided [information/resolution] was sufficient for your inquiries. We may then proceed ahead to close this case.
-
+	a: This is a gentle reminder of the previous e-mail.
+	b: I am getting in touch to see if you had a chance to review the email sent earlier.
+	
 2. 
-	I am getting in touch to see if you had a chance to review the email sent earlier.
-	Let me know if you need further clarification on the mentioned notes. If you [have no further questions / need no further assistance] at the moment, shall we proceed to close this case?
+	a: Please let us know if you are still in need of further assistance. Otherwise, kindly let us know if the provided [information/resolution] was sufficient for your inquiries. We may then proceed ahead to close this case.
+
+	b: Let me know if you need further clarification on the mentioned notes. If you [have no further questions / need no further assistance] at the moment, shall we proceed to close this case?
 
 Looking forward to hearing from you.
 Have a nice day!
