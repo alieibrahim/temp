@@ -3,22 +3,22 @@ Hello
 I hope you are doing well.
 
 1. 	
-	a: Please note that <Product Version> [[is / will be ] out of support] / has reached its end of support life. As such, it is advisable to upgrade to one of the latest supported versions of _.
+	A) Please note that <Product Version> [[is / will be ] out of support] / has reached its end of support life. As such, it is advisable to upgrade to one of the latest supported versions of _.
 	
-	b: According to RSA's End-of-Product-Support (EOPS) current dates, <Product Version> [is currently unsupported / will soon not be supported]. Therefore, it is recommended to consider upgrading <Product> to one of the latest released versions that are currently within the support scope.
+	B) According to RSA's End-of-Product-Support (EOPS) current dates, <Product Version> [is currently unsupported / will soon not be supported]. Therefore, it is recommended to consider upgrading <Product> to one of the latest released versions that are currently within the support scope.
 	
 
 2.
-	a: You can refer to the below link for more information about all of RSA SecurID's supported product versions and their end-of-life dates.
+	A) You can refer to the below link for more information about all of RSA SecurID's supported product versions and their end-of-life dates.
 	
-	b: More information on the currently supported RSA Product models can be found through the below link:
+	A) More information on the currently supported RSA Product models can be found through the below link:
 	
 	Product Version Life Cycle for RSA SecurID
 	- https://community.rsa.com/t5/product-life-cycle/product-version-life-cycle-for-securid/ta-p/572909
 
 
 3. 
-Should you not find the product feature /iIntegration guide you are looking for, we recommend you add your requirements to the RSA Ideas page which is regularly monitored by our product Managers and developers to for tracking the most feasible implementations to consider.
+Should you not find the product feature /integration guide you are looking for, we recommend you add your requirements to the RSA Ideas page which is regularly monitored by our product Managers and developers to for tracking the most feasible implementations to consider.
 
 	• RSA Ideas:  https://community.securid.com/t5/securid-ideas/idb-p/securid-access-ideas
 	• RSA Integration ideas:  https://community.securid.com/t5/securid-ideas/idb-p/securid-access-ideas/label-name/integrations
