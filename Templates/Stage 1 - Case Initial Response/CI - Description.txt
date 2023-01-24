@@ -1,37 +1,36 @@
-Hello 
+Hello ,
 
-I hope you are doing great.
+I hope you are doing great. 
 
-1. 
-	Thank you for reaching out to RSA SecurID's Technical Support team. 
-	My name is Nadeem Naoum, I have taken ownership of your case and will support you through it.
+1. 
+    a: Thank you for reaching out to RSA SecurID's Technical Support team. 
+    My name is Nadeem Naoum, I have taken ownership of your case and will support you through it.     
+    
+    b: Thank you for contacting RSA Technical Support Team. 
+    This is Nadeem Naoum, and I will be assisting you throughout this support case.
 
-	Can you please provide further information to explain [your inquiries / the issues you currently face with ].
-	This will help us identify your current issue quickly and narrow down the troubleshooting process.
-
-	We appreciate the time you have invested in opening a case with our team, and we will offer you the support you need. 
-
-	
 2.
-	Thank you for contacting RSA Technical Support Team. 
-	This is Nadeem Naoum, and I will be assisting you throughout this support case.
+    a: Can you please provide further information to explain [your inquiries / the issues you currently face with ].
+    This will help us identify your current issue quickly and narrow down the troubleshooting process.    
+    
+    b: The provided case notes were not sufficient for me to understand your request. As such, can you please further elaborate on your [questions / issues]?
+    We can then be able to clearly understand your inquiries and assist you accordingly.        
+    
+    c: Kindly advise back description to your issue with as much detail as possible. Please be sure to also include answers to the below questions:
+       1- Is the impacted env prod or test?
+       2- What is level of impact on the business?
+       3- Are there any replicas on your env?
+       4- What is the software version of your appliance?
+
+3.
+        a: We appreciate the time you have invested in opening a case with our team, and we will offer you the support you need. 
+        
+	b: Your support experience is valuable to us. As such, we're dedicated to getting to the bottom of this and working through your issue.         
 	
-	The provided case notes were not sufficient for me to understand your request. As such, can you please further elaborate on your [questions / issues]?
-	We can then be able to clearly understand your inquiries and assist you accordingly.
-
-	Your support experience is valuable to us. As such, we're dedicated to getting to the bottom of this and working through your issue.
-
-3.      Kindly advise back description to your issue with as much detail as possible. Please be sure to also include answers to the below questions:
-	   1- Is the impacted env prod or test?
-	   2- What is level of impact on the business?
-	   3- Are there any replicas on your env?
-           4- What is the software version of your appliance?
-
-       Please feel free to provide the necessary information in a reply to this email, as soon as it becomes available we will begin the investigation.
-
+	c: Please feel free to provide the necessary information in a reply to this email, as soon as it becomes available we will begin the investigation. 
+	
 Awaiting your feedback,
-Have a nice day!
-
+Have a nice day! 
 Best Regards,
 Nadeem Naoum | Technical Support Engineer | SecurID - RSA Security.
 Customer Help Desk: EMEA: Tel: +448000668073 | US: 1-800-995-5095 | APJ: +61238138723
